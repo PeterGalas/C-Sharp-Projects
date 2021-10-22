@@ -44,6 +44,44 @@ namespace Daily_Student_Report_Tech_Academy
             Console.WriteLine("Thank you for your answers. An instructor will respond to this shortly. Have a great Day!");
             Console.ReadLine();
             //end of program.
+
+            int num1 = 97; //int dont take "" simple math equation delacring int num1 and 2 with a total of both
+            int num2 = 43; //if you want to do subrtaction -, (difference)  insteady of total
+            int total = num1 + num2; //multiply = math operator * replace total with (product)
+            Console.WriteLine(total); // same / replace with (quotient)
+            Console.ReadLine();
+
+            int num3 = 10; //simple math equation delacring int num3 and num4 with a difference of the two. subtraction
+            int num4 = 8; 
+            int difference = num3 - num4; 
+            Console.WriteLine(difference);
+            Console.ReadLine();
+
+            int num5 = 10; //simple math equation delacring int num5 and num6 with a Multiplying the two. Multiply
+            int num6 = 8;
+            int product = num5 * num6;
+            Console.WriteLine(product);
+            Console.ReadLine();
+
+            int num7 = 10; //simple math equation delacring int num3 and num4 with a difference of the two. subtraction
+            int num8 = 8;
+            int quotient = num7 / num8;
+            Console.WriteLine(quotient);
+            Console.ReadLine();
+
+
+            //% sign is a modulus operator
+            int num9 = 7;
+            int num10 = 3;
+            int remainders = num5 % num6;
+            Console.WriteLine(remainders);
+            Console.ReadLine();
+
+            //odd or even remainder 1 is odd 0 is even
+            int number = 57;
+            int remainderz = number % 2;
+            Console.WriteLine(remainderz);
+            Console.ReadLine();
         }
     }
 }
