@@ -1,0 +1,7 @@
+C:\Users\PETER GALAS\source\repos\Daily_Student_Report_Tech_Academy\Daily_Student_Report_Tech_Academy\bin\Debug\Daily_Student_Report_Tech_Academy.exe.config
+C:\Users\PETER GALAS\source\repos\Daily_Student_Report_Tech_Academy\Daily_Student_Report_Tech_Academy\bin\Debug\Daily_Student_Report_Tech_Academy.exe
+C:\Users\PETER GALAS\source\repos\Daily_Student_Report_Tech_Academy\Daily_Student_Report_Tech_Academy\bin\Debug\Daily_Student_Report_Tech_Academy.pdb
+C:\Users\PETER GALAS\source\repos\Daily_Student_Report_Tech_Academy\Daily_Student_Report_Tech_Academy\obj\Debug\Daily_Student_Report_Tech_Academy.csproj.AssemblyReference.cache
+C:\Users\PETER GALAS\source\repos\Daily_Student_Report_Tech_Academy\Daily_Student_Report_Tech_Academy\obj\Debug\Daily_Student_Report_Tech_Academy.csproj.CoreCompileInputs.cache
+C:\Users\PETER GALAS\source\repos\Daily_Student_Report_Tech_Academy\Daily_Student_Report_Tech_Academy\obj\Debug\Daily_Student_Report_Tech_Academy.exe
+C:\Users\PETER GALAS\source\repos\Daily_Student_Report_Tech_Academy\Daily_Student_Report_Tech_Academy\obj\Debug\Daily_Student_Report_Tech_Academy.pdb
