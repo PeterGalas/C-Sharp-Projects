@@ -63,7 +63,7 @@ namespace Daily_Student_Report_Tech_Academy
             Console.WriteLine(product);
             Console.ReadLine();
 
-            int num7 = 10; //simple math equation delacring int num3 and num4 with a difference of the two. subtraction
+            int num7 = 10; //simple math equation delacring int num7 and num8 with a difference of the two. division
             int num8 = 8;
             int quotient = num7 / num8;
             Console.WriteLine(quotient);
@@ -82,6 +82,13 @@ namespace Daily_Student_Report_Tech_Academy
             int remainderz = number % 2;
             Console.WriteLine(remainderz);
             Console.ReadLine();
+
+            int num11 = 7;
+            float num12 = 5.5f;
+            float totals = num11 + num12;
+            Console.WriteLine(totals);
+            Console.ReadLine();
+            //casting int totals = num11 + (Int32)num12;
         }
     }
 }
