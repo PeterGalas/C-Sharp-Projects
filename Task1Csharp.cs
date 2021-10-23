@@ -31,7 +31,7 @@ namespace Daily_Student_Report_Tech_Academy
             Console.WriteLine("you are currently on page number " + pagenumber);
 
 
-            //requesting input of help needed? boolian would be done to perform the data type statement
+            //requesting input of help needed? boolian would be done to perform the data type statement returning true or false
 
 
 
