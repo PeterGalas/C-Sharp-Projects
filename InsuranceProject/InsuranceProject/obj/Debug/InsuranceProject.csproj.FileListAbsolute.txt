@@ -1,0 +1,7 @@
+C:\Users\PETER GALAS\Documents\myRepository\InsuranceProject\InsuranceProject\bin\Debug\InsuranceProject.exe.config
+C:\Users\PETER GALAS\Documents\myRepository\InsuranceProject\InsuranceProject\bin\Debug\InsuranceProject.exe
+C:\Users\PETER GALAS\Documents\myRepository\InsuranceProject\InsuranceProject\bin\Debug\InsuranceProject.pdb
+C:\Users\PETER GALAS\Documents\myRepository\InsuranceProject\InsuranceProject\obj\Debug\InsuranceProject.csproj.AssemblyReference.cache
+C:\Users\PETER GALAS\Documents\myRepository\InsuranceProject\InsuranceProject\obj\Debug\InsuranceProject.csproj.CoreCompileInputs.cache
+C:\Users\PETER GALAS\Documents\myRepository\InsuranceProject\InsuranceProject\obj\Debug\InsuranceProject.exe
+C:\Users\PETER GALAS\Documents\myRepository\InsuranceProject\InsuranceProject\obj\Debug\InsuranceProject.pdb
