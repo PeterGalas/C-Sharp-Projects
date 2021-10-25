@@ -59,11 +59,11 @@ namespace Math_And_Comparison_Operator_Submission
 
 
             //Annual salary for person 2 
-            Console.WriteLine("Weekly salary for Person 1");
+            Console.WriteLine("Weekly salary for Person 2");
             decimal salaryTwo = payRate22 * hours22;
             Console.WriteLine(salaryTwo);
             decimal monthlyWages = salaryTwo * 4;
-            Console.WriteLine("Annauly salary of person 1 is " + monthlyWages * 12);
+            Console.WriteLine("Annauly salary of person 2 is " + monthlyWages * 12);
             Console.ReadLine();
 
             //Does person 1 make more money than person 2?
