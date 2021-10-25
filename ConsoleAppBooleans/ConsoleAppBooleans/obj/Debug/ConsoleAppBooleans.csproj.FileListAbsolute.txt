@@ -1,0 +1,7 @@
+C:\Users\PETER GALAS\Documents\myRepository\ConsoleAppBooleans\ConsoleAppBooleans\bin\Debug\ConsoleAppBooleans.exe.config
+C:\Users\PETER GALAS\Documents\myRepository\ConsoleAppBooleans\ConsoleAppBooleans\bin\Debug\ConsoleAppBooleans.exe
+C:\Users\PETER GALAS\Documents\myRepository\ConsoleAppBooleans\ConsoleAppBooleans\bin\Debug\ConsoleAppBooleans.pdb
+C:\Users\PETER GALAS\Documents\myRepository\ConsoleAppBooleans\ConsoleAppBooleans\obj\Debug\ConsoleAppBooleans.csproj.AssemblyReference.cache
+C:\Users\PETER GALAS\Documents\myRepository\ConsoleAppBooleans\ConsoleAppBooleans\obj\Debug\ConsoleAppBooleans.csproj.CoreCompileInputs.cache
+C:\Users\PETER GALAS\Documents\myRepository\ConsoleAppBooleans\ConsoleAppBooleans\obj\Debug\ConsoleAppBooleans.exe
+C:\Users\PETER GALAS\Documents\myRepository\ConsoleAppBooleans\ConsoleAppBooleans\obj\Debug\ConsoleAppBooleans.pdb
