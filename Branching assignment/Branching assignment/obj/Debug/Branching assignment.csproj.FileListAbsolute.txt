@@ -1,0 +1,7 @@
+C:\Users\PETER GALAS\source\repos\Branching assignment\Branching assignment\bin\Debug\Branching assignment.exe.config
+C:\Users\PETER GALAS\source\repos\Branching assignment\Branching assignment\bin\Debug\Branching assignment.exe
+C:\Users\PETER GALAS\source\repos\Branching assignment\Branching assignment\bin\Debug\Branching assignment.pdb
+C:\Users\PETER GALAS\source\repos\Branching assignment\Branching assignment\obj\Debug\Branching assignment.csproj.AssemblyReference.cache
+C:\Users\PETER GALAS\source\repos\Branching assignment\Branching assignment\obj\Debug\Branching assignment.csproj.CoreCompileInputs.cache
+C:\Users\PETER GALAS\source\repos\Branching assignment\Branching assignment\obj\Debug\Branching assignment.exe
+C:\Users\PETER GALAS\source\repos\Branching assignment\Branching assignment\obj\Debug\Branching assignment.pdb
