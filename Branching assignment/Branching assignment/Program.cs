@@ -54,9 +54,18 @@ namespace Branching_assignment
             //Console.WriteLine(total);
             //Console.ReadLine();
 
-            decimal sum = packageWeight * (packageHeight + packageLength + packageWidth) / 100m; //
-            Console.WriteLine("Your total for shipping this is: $" + sum);
+            //decimal sum = packageWeight * (packageHeight + packageLength + packageWidth) / 100m; //
+            //Console.WriteLine("Your total for shipping this is: $" + sum);
+            //Console.ReadLine();
+
+            decimal sum = (packageHeight * packageWidth * packageLength);
+            decimal product = sum * packageWeight / 100m;
+
+            //int total = Convert.ToInt32(Console.ReadLine());
+            Console.WriteLine("Your total for shipping this package is: $" + product);
             Console.ReadLine();
+            //decimal final = (packageWeight * sum); 
+
 
         }
     }
