@@ -5,3 +5,10 @@ C:\Users\PETER GALAS\source\repos\loops\loops\obj\Debug\loops.csproj.AssemblyRef
 C:\Users\PETER GALAS\source\repos\loops\loops\obj\Debug\loops.csproj.CoreCompileInputs.cache
 C:\Users\PETER GALAS\source\repos\loops\loops\obj\Debug\loops.exe
 C:\Users\PETER GALAS\source\repos\loops\loops\obj\Debug\loops.pdb
+C:\Users\PETER GALAS\Documents\GitHub\C-Sharp-Projects\loops\loops\bin\Debug\loops.exe.config
+C:\Users\PETER GALAS\Documents\GitHub\C-Sharp-Projects\loops\loops\bin\Debug\loops.exe
+C:\Users\PETER GALAS\Documents\GitHub\C-Sharp-Projects\loops\loops\bin\Debug\loops.pdb
+C:\Users\PETER GALAS\Documents\GitHub\C-Sharp-Projects\loops\loops\obj\Debug\loops.csproj.AssemblyReference.cache
+C:\Users\PETER GALAS\Documents\GitHub\C-Sharp-Projects\loops\loops\obj\Debug\loops.csproj.CoreCompileInputs.cache
+C:\Users\PETER GALAS\Documents\GitHub\C-Sharp-Projects\loops\loops\obj\Debug\loops.exe
+C:\Users\PETER GALAS\Documents\GitHub\C-Sharp-Projects\loops\loops\obj\Debug\loops.pdb
