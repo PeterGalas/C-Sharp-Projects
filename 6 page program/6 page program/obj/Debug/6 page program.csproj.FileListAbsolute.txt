@@ -1,0 +1,7 @@
+C:\Users\PETER GALAS\source\repos\6 page program\6 page program\obj\Debug\6 page program.csproj.AssemblyReference.cache
+C:\Users\PETER GALAS\source\repos\6 page program\6 page program\obj\Debug\6 page program.csproj.CoreCompileInputs.cache
+C:\Users\PETER GALAS\source\repos\6 page program\6 page program\bin\Debug\6 page program.exe.config
+C:\Users\PETER GALAS\source\repos\6 page program\6 page program\bin\Debug\6 page program.exe
+C:\Users\PETER GALAS\source\repos\6 page program\6 page program\bin\Debug\6 page program.pdb
+C:\Users\PETER GALAS\source\repos\6 page program\6 page program\obj\Debug\6 page program.exe
+C:\Users\PETER GALAS\source\repos\6 page program\6 page program\obj\Debug\6 page program.pdb
