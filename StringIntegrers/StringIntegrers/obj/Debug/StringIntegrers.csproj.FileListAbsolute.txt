@@ -1,0 +1,7 @@
+C:\Users\PETER GALAS\source\repos\StringIntegrers\StringIntegrers\bin\Debug\StringIntegrers.exe.config
+C:\Users\PETER GALAS\source\repos\StringIntegrers\StringIntegrers\bin\Debug\StringIntegrers.exe
+C:\Users\PETER GALAS\source\repos\StringIntegrers\StringIntegrers\bin\Debug\StringIntegrers.pdb
+C:\Users\PETER GALAS\source\repos\StringIntegrers\StringIntegrers\obj\Debug\StringIntegrers.csproj.AssemblyReference.cache
+C:\Users\PETER GALAS\source\repos\StringIntegrers\StringIntegrers\obj\Debug\StringIntegrers.csproj.CoreCompileInputs.cache
+C:\Users\PETER GALAS\source\repos\StringIntegrers\StringIntegrers\obj\Debug\StringIntegrers.exe
+C:\Users\PETER GALAS\source\repos\StringIntegrers\StringIntegrers\obj\Debug\StringIntegrers.pdb
