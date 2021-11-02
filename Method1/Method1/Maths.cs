@@ -25,5 +25,10 @@ namespace Method1
         {
             Console.WriteLine(divNum / 5);
         }
+        public void Decimal(double decNum)
+        {
+            Console.WriteLine(decNum / .5);
+        }
+
     }
 }

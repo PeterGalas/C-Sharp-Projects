@@ -38,6 +38,13 @@ namespace Method1
             divi.Divide(number);
             Console.ReadLine();
 
+            Console.WriteLine("The number you entered, divided by 5 equals: ");
+            decimal dec = Convert.ToDecimal(Console.ReadLine());
+
+            //Maths dec = new Maths();
+            //dec.Decimal(number);
+            //Console.ReadLine();
+
         }
     }
 }
