@@ -10,13 +10,13 @@ namespace Method2
     {
         public static void Main()
         {
-            int opInt = 95;
+            int opInt = 95;// +37
             Math.mathTime(opInt);
 
-            decimal opDec = 648.21m;
+            decimal opDec = 648.21m;// * 15
             Math.mathTime(opDec);
 
-            string opString = "9000";
+            string opString = "9000";// + 100
             Math.mathTime(opString);
 
             Console.ReadLine();
