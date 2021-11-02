@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace Method1
 {
+    //final.
     class Maths
     {
         public void Multi(int multiNum)
