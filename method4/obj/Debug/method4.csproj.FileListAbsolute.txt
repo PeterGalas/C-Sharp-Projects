@@ -12,3 +12,7 @@ C:\Users\PETER GALAS\Desktop\method4\obj\Debug\method4.csproj.AssemblyReference.
 C:\Users\PETER GALAS\Desktop\method4\obj\Debug\method4.csproj.CoreCompileInputs.cache
 C:\Users\PETER GALAS\Desktop\method4\obj\Debug\method4.exe
 C:\Users\PETER GALAS\Desktop\method4\obj\Debug\method4.pdb
+C:\Users\PETER GALAS\Documents\GitHub\C-Sharp-Projects\method4\obj\Debug\method4.csproj.AssemblyReference.cache
+C:\Users\PETER GALAS\Documents\GitHub\C-Sharp-Projects\method4\obj\Debug\method4.csproj.CoreCompileInputs.cache
+C:\Users\PETER GALAS\Documents\GitHub\C-Sharp-Projects\method4\obj\Debug\method4.exe
+C:\Users\PETER GALAS\Documents\GitHub\C-Sharp-Projects\method4\obj\Debug\method4.pdb

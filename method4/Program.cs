@@ -41,6 +41,22 @@ namespace method4
 
 
         }
+        class Test
+        {
+            static void Foo(int One)
+            {
+                Console.WriteLine("Foo(int One)");
+            }
 
+            static void Foo(string Two)
+            {
+                Console.WriteLine("Foo(string Two)");
+            }
+
+            static void Main()
+            {
+                Foo("text");
+            }
+        }
     }
 }
