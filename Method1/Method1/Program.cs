@@ -11,40 +11,26 @@ namespace Method1
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Please type in a number.");
-            int number = Convert.ToInt32(Console.ReadLine());
+            Maths method1 = new Maths(); //instantiating class maths
+            // not sure if I had to instantiate the class all three times I called a method since they all belong to one class. So I only did once.
+            Console.WriteLine("Method that takes an int and returns an int and adds 5: " + method1.one_method(12));//preset values
 
-            Console.WriteLine("The number you picked times 75 is: ");
+            Console.WriteLine("Method that takes an decimal and returns an int and adds 10: " + method1.one_method(1.22m));
 
-            Maths multi = new Maths();
-            multi.Multi(number);
-            Console.ReadLine();
+            Console.WriteLine("Method that takes an string and returns an int and adds 20: " + method1.one_method("12"));
 
-            Console.WriteLine("Your number plus 78 equals: ");
+            Console.Read();
+           
+        }
 
-            Maths add = new Maths();
-            add.Adding(number);
-            Console.ReadLine();
-
-            Console.WriteLine("The number you picked subtracted by 13 equals: ");
-
-            Maths subtract = new Maths();
-            subtract.Subtracting(number);
-            Console.ReadLine();
-            
-
-            Console.WriteLine("The number you entered, divided by 5 equals: ");
-
-            Maths divi = new Maths();
-            divi.Divide(number);
-            Console.ReadLine();
-
-            Console.WriteLine("The number you entered, divided by 5 equals: ");
-            decimal dec = Convert.ToDecimal(Console.ReadLine());
-
-            //Maths dec = new Maths();
-            //dec.Decimal(number);
-            //Console.ReadLine();
+        public class SampleOne
+        {
+            public void IntergerMethod(int num)
+            {
+                Decimal newValue = Convert.ToDecimal(num);
+                Console.WriteLine(newValue);
+                Console.ReadLine();
+            }
 
         }
     }

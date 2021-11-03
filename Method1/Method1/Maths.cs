@@ -9,27 +9,24 @@ namespace Method1
     //final.
     class Maths
     {
-        public void Multi(int multiNum)
+        public int one_method(int num)
         {
-            Console.WriteLine(multiNum * 75);
+            int result = num + 5;
+            return result;
         }
 
-        public void Adding(int addNum)
+        public int one_method(decimal num)
         {
-            Console.WriteLine(addNum + 78);
+            int result = Convert.ToInt32(num) + 10;
+            return result;
         }
-        public void Subtracting(int subNum)
+
+        public int one_method(string num)
         {
-            Console.WriteLine(subNum - 13);
+            int result = Convert.ToInt32(num) + 20;
+            return result;
         }
-        public void Divide(double divNum)
-        {
-            Console.WriteLine(divNum / 5);
-        }
-        public void Decimal(double decNum)
-        {
-            Console.WriteLine(decNum / .5);
-        }
+    }
 
     }
-}
+
