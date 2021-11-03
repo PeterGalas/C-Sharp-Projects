@@ -5,3 +5,10 @@ C:\Users\PETER GALAS\source\repos\RevisionMethod2\RevisionMethod2\obj\Debug\Revi
 C:\Users\PETER GALAS\source\repos\RevisionMethod2\RevisionMethod2\obj\Debug\RevisionMethod2.csproj.CoreCompileInputs.cache
 C:\Users\PETER GALAS\source\repos\RevisionMethod2\RevisionMethod2\obj\Debug\RevisionMethod2.exe
 C:\Users\PETER GALAS\source\repos\RevisionMethod2\RevisionMethod2\obj\Debug\RevisionMethod2.pdb
+C:\Users\PETER GALAS\Documents\GitHub\C-Sharp-Projects\RevisionMethod2\RevisionMethod2\bin\Debug\RevisionMethod2.exe.config
+C:\Users\PETER GALAS\Documents\GitHub\C-Sharp-Projects\RevisionMethod2\RevisionMethod2\bin\Debug\RevisionMethod2.exe
+C:\Users\PETER GALAS\Documents\GitHub\C-Sharp-Projects\RevisionMethod2\RevisionMethod2\bin\Debug\RevisionMethod2.pdb
+C:\Users\PETER GALAS\Documents\GitHub\C-Sharp-Projects\RevisionMethod2\RevisionMethod2\obj\Debug\RevisionMethod2.csproj.AssemblyReference.cache
+C:\Users\PETER GALAS\Documents\GitHub\C-Sharp-Projects\RevisionMethod2\RevisionMethod2\obj\Debug\RevisionMethod2.csproj.CoreCompileInputs.cache
+C:\Users\PETER GALAS\Documents\GitHub\C-Sharp-Projects\RevisionMethod2\RevisionMethod2\obj\Debug\RevisionMethod2.exe
+C:\Users\PETER GALAS\Documents\GitHub\C-Sharp-Projects\RevisionMethod2\RevisionMethod2\obj\Debug\RevisionMethod2.pdb
