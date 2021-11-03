@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{3C3292AC-C739-4D7D-8D25-4E17567E0698}</ProjectGuid>
+    <ProjectGuid>{0085B3BF-572D-4AC1-B7DD-E8AEE42D6894}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Method2</RootNamespace>
-    <AssemblyName>Method2</AssemblyName>
+    <RootNamespace>RevisionMethod2</RootNamespace>
+    <AssemblyName>RevisionMethod2</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,9 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="MathOperations.cs" />
-    <Compile Include="NameClassTwo.cs" />
-    <Compile Include="MathClass.cs" />
+    <Compile Include="Class1.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
