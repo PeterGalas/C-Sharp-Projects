@@ -12,3 +12,10 @@ C:\Users\PETER GALAS\Desktop\New folder\obj\Debug\Method2.csproj.AssemblyReferen
 C:\Users\PETER GALAS\Desktop\New folder\obj\Debug\Method2.csproj.CoreCompileInputs.cache
 C:\Users\PETER GALAS\Desktop\New folder\obj\Debug\Method2.exe
 C:\Users\PETER GALAS\Desktop\New folder\obj\Debug\Method2.pdb
+C:\Users\PETER GALAS\Documents\GitHub\C-Sharp-Projects\MainMethod2\bin\Debug\Method2.exe.config
+C:\Users\PETER GALAS\Documents\GitHub\C-Sharp-Projects\MainMethod2\bin\Debug\Method2.exe
+C:\Users\PETER GALAS\Documents\GitHub\C-Sharp-Projects\MainMethod2\bin\Debug\Method2.pdb
+C:\Users\PETER GALAS\Documents\GitHub\C-Sharp-Projects\MainMethod2\obj\Debug\Method2.csproj.AssemblyReference.cache
+C:\Users\PETER GALAS\Documents\GitHub\C-Sharp-Projects\MainMethod2\obj\Debug\Method2.csproj.CoreCompileInputs.cache
+C:\Users\PETER GALAS\Documents\GitHub\C-Sharp-Projects\MainMethod2\obj\Debug\Method2.exe
+C:\Users\PETER GALAS\Documents\GitHub\C-Sharp-Projects\MainMethod2\obj\Debug\Method2.pdb
