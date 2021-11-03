@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{68C156F7-D93D-4018-B199-9D59B0A5AE5E}</ProjectGuid>
+    <ProjectGuid>{8646ED5B-EB27-435B-BB39-9081F6ADCE92}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>Method3</RootNamespace>
-    <AssemblyName>Method3</AssemblyName>
+    <RootNamespace>MethodClassRevission</RootNamespace>
+    <AssemblyName>MethodClassRevission</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,7 +43,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Operation.cs" />
+    <Compile Include="Math.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>

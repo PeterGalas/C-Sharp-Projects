@@ -1,0 +1,7 @@
+C:\Users\PETER GALAS\source\repos\MethodClassRevission\MethodClassRevission\bin\Debug\MethodClassRevission.exe.config
+C:\Users\PETER GALAS\source\repos\MethodClassRevission\MethodClassRevission\bin\Debug\MethodClassRevission.exe
+C:\Users\PETER GALAS\source\repos\MethodClassRevission\MethodClassRevission\bin\Debug\MethodClassRevission.pdb
+C:\Users\PETER GALAS\source\repos\MethodClassRevission\MethodClassRevission\obj\Debug\MethodClassRevission.csproj.AssemblyReference.cache
+C:\Users\PETER GALAS\source\repos\MethodClassRevission\MethodClassRevission\obj\Debug\MethodClassRevission.csproj.CoreCompileInputs.cache
+C:\Users\PETER GALAS\source\repos\MethodClassRevission\MethodClassRevission\obj\Debug\MethodClassRevission.exe
+C:\Users\PETER GALAS\source\repos\MethodClassRevission\MethodClassRevission\obj\Debug\MethodClassRevission.pdb

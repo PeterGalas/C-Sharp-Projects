@@ -1,7 +1,0 @@
-C:\Users\PETER GALAS\source\repos\Method3\Method3\bin\Debug\Method3.exe.config
-C:\Users\PETER GALAS\source\repos\Method3\Method3\bin\Debug\Method3.exe
-C:\Users\PETER GALAS\source\repos\Method3\Method3\bin\Debug\Method3.pdb
-C:\Users\PETER GALAS\source\repos\Method3\Method3\obj\Debug\Method3.csproj.AssemblyReference.cache
-C:\Users\PETER GALAS\source\repos\Method3\Method3\obj\Debug\Method3.csproj.CoreCompileInputs.cache
-C:\Users\PETER GALAS\source\repos\Method3\Method3\obj\Debug\Method3.exe
-C:\Users\PETER GALAS\source\repos\Method3\Method3\obj\Debug\Method3.pdb
