@@ -4,10 +4,10 @@
   <PropertyGroup>
     <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
-    <ProjectGuid>{7EDF3467-97D0-4461-97CE-CF621705258D}</ProjectGuid>
+    <ProjectGuid>{B208D54B-B0C3-4BA0-A14B-EC87ACB41E36}</ProjectGuid>
     <OutputType>Exe</OutputType>
-    <RootNamespace>method4</RootNamespace>
-    <AssemblyName>method4</AssemblyName>
+    <RootNamespace>Methodd4</RootNamespace>
+    <AssemblyName>Methodd4</AssemblyName>
     <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -43,10 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
+    <Compile Include="ClassMethod.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="StaticClass.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />

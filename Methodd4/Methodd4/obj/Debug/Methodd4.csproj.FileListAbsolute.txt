@@ -1,0 +1,7 @@
+C:\Users\PETER GALAS\source\repos\Methodd4\Methodd4\bin\Debug\Methodd4.exe.config
+C:\Users\PETER GALAS\source\repos\Methodd4\Methodd4\bin\Debug\Methodd4.exe
+C:\Users\PETER GALAS\source\repos\Methodd4\Methodd4\bin\Debug\Methodd4.pdb
+C:\Users\PETER GALAS\source\repos\Methodd4\Methodd4\obj\Debug\Methodd4.csproj.AssemblyReference.cache
+C:\Users\PETER GALAS\source\repos\Methodd4\Methodd4\obj\Debug\Methodd4.csproj.CoreCompileInputs.cache
+C:\Users\PETER GALAS\source\repos\Methodd4\Methodd4\obj\Debug\Methodd4.exe
+C:\Users\PETER GALAS\source\repos\Methodd4\Methodd4\obj\Debug\Methodd4.pdb
