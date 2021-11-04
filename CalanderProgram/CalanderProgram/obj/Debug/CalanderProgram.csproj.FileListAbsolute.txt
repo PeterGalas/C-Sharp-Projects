@@ -1,0 +1,7 @@
+C:\Users\PETER GALAS\source\repos\CalanderProgram\CalanderProgram\bin\Debug\CalanderProgram.exe.config
+C:\Users\PETER GALAS\source\repos\CalanderProgram\CalanderProgram\bin\Debug\CalanderProgram.exe
+C:\Users\PETER GALAS\source\repos\CalanderProgram\CalanderProgram\bin\Debug\CalanderProgram.pdb
+C:\Users\PETER GALAS\source\repos\CalanderProgram\CalanderProgram\obj\Debug\CalanderProgram.csproj.AssemblyReference.cache
+C:\Users\PETER GALAS\source\repos\CalanderProgram\CalanderProgram\obj\Debug\CalanderProgram.csproj.CoreCompileInputs.cache
+C:\Users\PETER GALAS\source\repos\CalanderProgram\CalanderProgram\obj\Debug\CalanderProgram.exe
+C:\Users\PETER GALAS\source\repos\CalanderProgram\CalanderProgram\obj\Debug\CalanderProgram.pdb
