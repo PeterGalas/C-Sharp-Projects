@@ -1,0 +1,7 @@
+C:\Users\PETER GALAS\source\repos\Methods_And_Objects\Methods_And_Objects\bin\Debug\Methods_And_Objects.exe.config
+C:\Users\PETER GALAS\source\repos\Methods_And_Objects\Methods_And_Objects\bin\Debug\Methods_And_Objects.exe
+C:\Users\PETER GALAS\source\repos\Methods_And_Objects\Methods_And_Objects\bin\Debug\Methods_And_Objects.pdb
+C:\Users\PETER GALAS\source\repos\Methods_And_Objects\Methods_And_Objects\obj\Debug\Methods_And_Objects.csproj.AssemblyReference.cache
+C:\Users\PETER GALAS\source\repos\Methods_And_Objects\Methods_And_Objects\obj\Debug\Methods_And_Objects.csproj.CoreCompileInputs.cache
+C:\Users\PETER GALAS\source\repos\Methods_And_Objects\Methods_And_Objects\obj\Debug\Methods_And_Objects.exe
+C:\Users\PETER GALAS\source\repos\Methods_And_Objects\Methods_And_Objects\obj\Debug\Methods_And_Objects.pdb
