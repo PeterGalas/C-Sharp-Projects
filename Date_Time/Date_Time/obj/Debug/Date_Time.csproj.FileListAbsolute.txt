@@ -1,0 +1,7 @@
+C:\Users\PETER GALAS\source\repos\Date_Time\Date_Time\bin\Debug\Date_Time.exe.config
+C:\Users\PETER GALAS\source\repos\Date_Time\Date_Time\bin\Debug\Date_Time.exe
+C:\Users\PETER GALAS\source\repos\Date_Time\Date_Time\bin\Debug\Date_Time.pdb
+C:\Users\PETER GALAS\source\repos\Date_Time\Date_Time\obj\Debug\Date_Time.csproj.AssemblyReference.cache
+C:\Users\PETER GALAS\source\repos\Date_Time\Date_Time\obj\Debug\Date_Time.csproj.CoreCompileInputs.cache
+C:\Users\PETER GALAS\source\repos\Date_Time\Date_Time\obj\Debug\Date_Time.exe
+C:\Users\PETER GALAS\source\repos\Date_Time\Date_Time\obj\Debug\Date_Time.pdb
