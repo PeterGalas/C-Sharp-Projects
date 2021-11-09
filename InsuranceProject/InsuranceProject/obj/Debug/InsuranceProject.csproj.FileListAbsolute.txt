@@ -5,3 +5,11 @@ C:\Users\PETER GALAS\Documents\myRepository\InsuranceProject\InsuranceProject\ob
 C:\Users\PETER GALAS\Documents\myRepository\InsuranceProject\InsuranceProject\obj\Debug\InsuranceProject.csproj.CoreCompileInputs.cache
 C:\Users\PETER GALAS\Documents\myRepository\InsuranceProject\InsuranceProject\obj\Debug\InsuranceProject.exe
 C:\Users\PETER GALAS\Documents\myRepository\InsuranceProject\InsuranceProject\obj\Debug\InsuranceProject.pdb
+E:\C# repo\C-Sharp-Projects\InsuranceProject\InsuranceProject\bin\Debug\InsuranceProject.exe.config
+E:\C# repo\C-Sharp-Projects\InsuranceProject\InsuranceProject\bin\Debug\InsuranceProject.exe
+E:\C# repo\C-Sharp-Projects\InsuranceProject\InsuranceProject\bin\Debug\InsuranceProject.pdb
+E:\C# repo\C-Sharp-Projects\InsuranceProject\InsuranceProject\obj\Debug\InsuranceProject.csproj.AssemblyReference.cache
+E:\C# repo\C-Sharp-Projects\InsuranceProject\InsuranceProject\obj\Debug\InsuranceProject.csproj.SuggestedBindingRedirects.cache
+E:\C# repo\C-Sharp-Projects\InsuranceProject\InsuranceProject\obj\Debug\InsuranceProject.csproj.CoreCompileInputs.cache
+E:\C# repo\C-Sharp-Projects\InsuranceProject\InsuranceProject\obj\Debug\InsuranceProject.exe
+E:\C# repo\C-Sharp-Projects\InsuranceProject\InsuranceProject\obj\Debug\InsuranceProject.pdb
