@@ -49,7 +49,7 @@ namespace Car_Insurance.Controllers
         // more details see https://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Create([Bind(Include = "Id,FName,LastName,EmailAddress,DateOfBirth,CarYear,CarMake,CarModel,DUI,SpeedingTickets,FullCoverage, Quote")] Insuree insuree)
+        public ActionResult Create([Bind(Include = "Id,FirstName,LastName,EmailAddress,DateOfBirth,CarYear,CarMake,CarModel,DUI,SpeedingTickets,FullCoverage, Quote")] Insuree insuree)
         {
                     
             if (ModelState.IsValid)
@@ -91,7 +91,7 @@ namespace Car_Insurance.Controllers
             {
                 insuree.Quote += 25;
             }
-            if (insuree.CarMake == "Porschee" && insuree.CarModel == " Carrera")
+            if (insuree.CarMake == "Porsche" && insuree.CarModel == "911 Carrera")
             {
                 insuree.Quote += 25;
             }
@@ -99,11 +99,11 @@ namespace Car_Insurance.Controllers
             {
                 insuree.Quote += 10;
             }
-            if (insuree.DUI = false)
+            if (insuree.DUI == true)
             {
                 insuree.Quote *= 1.25m;
             }
-            if (insuree.FullCoverage == false)
+            if (insuree.FullCoverage == true)
             {
                 insuree.Quote *= 1.50m;
             }
@@ -131,7 +131,7 @@ namespace Car_Insurance.Controllers
         // more details see https://go.microsoft.com/fwlink/?LinkId=317598.
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public ActionResult Edit([Bind(Include = "Id,FName,LastName,EmailAddress,DateOfBirth,CarYear,CarMake,CarModel,DUI,SpeedingTickets,FullCoverage,Quote")] Insuree insuree)
+        public ActionResult Edit([Bind(Include = "Id,FirstName,LastName,EmailAddress,DateOfBirth,CarYear,CarMake,CarModel,DUI,SpeedingTickets,FullCoverage,Quote")] Insuree insuree)
         {
             if (ModelState.IsValid)
             {
