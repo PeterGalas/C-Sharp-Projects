@@ -1,0 +1,27 @@
+:root{
+	--mainColor:#344e3a;
+	--secondaryColor:#1e2c2c;
+
+	--borderColor:#1a2015;
+
+	--mainText:#fff;
+	--secondaryText:#eeeeee;
+
+	--themeDotBorder:#FFF;
+
+	--previewBg:rgba(21, 32, 22, 0.8);
+	--previewShadow:#202f22;
+
+
+	--buttonColor:#a33434;
+
+
+}
+
+h3{
+	text-shadow: 2px 2px 2px rgb(119, 119, 119);
+}
+
+h4{
+	text-shadow: 2px 2px 2px rgb(39, 39, 39);
+}
